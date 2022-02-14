@@ -5,10 +5,7 @@ The simplest and fastest way to get up and running with Tailwind CSS from scratc
 ### 1. Install Tailwind CSS
 Install tailwindcss via npm, and create your tailwind.config.js file.
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+```
+1. npm install -D tailwindcss
+2. npx tailwindcss init
 ```
